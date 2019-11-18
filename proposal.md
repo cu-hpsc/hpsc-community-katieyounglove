@@ -10,11 +10,11 @@ primary audience is.*
 
 | Description | Your answer |
 |---------|-----------|
-| Repository URL |    |
-| Main/documentation website |    |
-| Year project was started |   |
-| Number of contributors in the past year | `git shortlog -se --since=2018-10-07` may be useful |
-| Number of contributors in the lifetime of the project |   |
+| Repository URL |  https://github.com/pandas-dev/pandas  |
+| Main/documentation website |  https://pandas.pydata.org/pandas-docs/stable/  |
+| Year project was started | 2010  |
+| Number of contributors in the past year | 554 |
+| Number of contributors in the lifetime of the project |  2079 |
 | Number of distinct affiliations | 1, 2-5, 5-10, >10 |
 | Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
 | Typical number of emails/comments per week? |   |
@@ -30,10 +30,10 @@ primary audience is.*
 Check the following boxes when complete or add a note below if you
 encountered a problem.
 
-- [ ] I have installed the software
-- [ ] I have run at least one example
-- [ ] I have run the test suite
-- [ ] The test suite passes
+- [X] I have installed the software
+- [X] I have run at least one example
+- [X] I have run the test suite
+- [X] The test suite passes
 
 ### Notes/concerns/risks
 
