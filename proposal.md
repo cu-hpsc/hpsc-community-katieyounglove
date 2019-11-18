@@ -1,7 +1,7 @@
 # Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
-## Software: *NAME_OF_PACKAGE_HERE*
+## Software: *Pandas*
 
 *Write a paragraph describing what the software does and who its
 primary audience is.*
@@ -30,10 +30,10 @@ primary audience is.*
 Check the following boxes when complete or add a note below if you
 encountered a problem.
 
-- [ ] I have installed the software
-- [ ] I have run at least one example
-- [ ] I have run the test suite
-- [ ] The test suite passes
+- [X ] I have installed the software
+- [X ] I have run at least one example
+- [X ] I have run the test suite
+- [X ] The test suite passes
 
 ### Notes/concerns/risks
 
